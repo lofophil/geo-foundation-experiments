@@ -1,0 +1,13 @@
+*.pt
+*.pth
+*.ckpt
+*.tif
+*.nc
+data/raw/
+outputs/
+wandb/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.idea/
+hls-foundation-os/
